@@ -263,23 +263,17 @@ under specific reuse terms, add an appropriate open-source license to
 the repository.
 
 ------------------------------------------------------------------------
-
 ## 👨‍💻 Creator
 
 **CIPERPY**
 
-Building practical developer tools and student-focused technology
-projects.
+Building practical developer tools and student-focused technology projects.
 
--   GitHub: https://github.com/ciperpy
--   Website: https://ciperpy.com
+- GitHub: [github.com/ciperpy](https://github.com/ciperpy)
+- Website: [ciperpy.com](https://ciperpy.com)
 
-------------------------------------------------------------------------
+---
 
-```{=html}
 <p align="center">
-```
-`<strong>`{=html}Made with ❤️ by CIPERPY`</strong>`{=html}
-```{=html}
+  <strong>Made with ❤️ by CIPERPY</strong>
 </p>
-```

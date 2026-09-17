@@ -8,7 +8,7 @@ landmark and eye analysis directly in the browser to detect prolonged
 eye closure and provide an alert before drowsiness turns into lost study
 time.
 
-**Live Demo:** https://focus-guard-tawny.vercel.app\
+**Live Demo:** https://focus-guard-tawny.vercel.app/
 **Repository:** https://github.com/ciperpy/FocusGuard
 
 ------------------------------------------------------------------------
